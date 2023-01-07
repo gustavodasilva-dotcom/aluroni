@@ -1,11 +1,11 @@
 # aluroni
 
-Este projeto foi desenvolvido ao longo do curso "React: lidando com arquivos estáticos", da Alura.
+Este projeto foi desenvolvido ao longo dos cursos "React: lidando com arquivos estáticos" e "React: conhecendo a biblioteca React Router", da Alura.
 
 ## funcionalidade
 
-Como consta no nome do curso, o objetivo do projeto era, de forma prática, demonstrar as diversas situações em que arquivos estáticos se apresentam -- e quais são as possibilidades de lidar com eles.
+Conforme constam nos nomes dos cursos, o objetivo do projeto era, de forma prática, demonstrar as diversas situações em que arquivos estáticos e rotas se apresentam -- e quais são as possibilidades de lidar com esses conceitos.
 
-Dessa forma -- além de filtros de pesquisa -- a aplicação possui diversas imagens, sendo renderizadas de diversas formas:
+Filtros de pesquisa, imagens renderizadas dinamicamente, rotas para páginas convencionais e *Not Found*, e muito mais, fazem parte do escopo desse projeto:
 
-![](https://github.com/gustavodasilva-dotcom/aluroni/blob/master/src/assets/_tela.gif)
+![](https://github.com/gustavodasilva-dotcom/aluroni/blob/master/src/assets/_rotas.gif)
